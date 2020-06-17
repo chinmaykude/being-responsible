@@ -1,6 +1,6 @@
 # Being Responsible
 
-## A project were we tried bridging the gap between government authorities and citizens. 
+## A project where we tried bridging the gap between government authorities and citizens. 
 
 https://being-responsible-hackathon-project.now.sh
 
